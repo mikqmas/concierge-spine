@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './compontents/Header'
+// import Header from './compontents/Header'
 
 function App() {
 
@@ -34,7 +34,7 @@ function App() {
 
         <div className="mt-10">
           <div className="relative w-full max-w-3xl mx-auto aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg overflow-hidden shadow">
-          <iframe width="768" height="432" src="https://www.youtube.com/embed/6MYLvWphADk?si=QyKYdTuVVIspeqyE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="768" height="432" src="https://www.youtube.com/embed/6MYLvWphADk?si=QyKYdTuVVIspeqyE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
           </div>
         </div>
 
