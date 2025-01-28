@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import logo from '../logo.svg';
+import small from '/small.svg';
 
 const navigation = [
   { name: 'Who We Serve', href: '#' },
@@ -58,7 +59,7 @@ export default function Landing() {
                 <span className="sr-only">Concierge Spine</span>
                 <img
                   alt=""
-                  src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
+                  src={small}
                   className="h-8 w-auto"
                 />
               </a>
@@ -112,7 +113,17 @@ export default function Landing() {
           />
         </div>
         <div className="mx-auto max-w-2xl py-16 sm:py-24 lg:py-28">
-            <iframe width="768" height="432" src="https://www.youtube.com/embed/6MYLvWphADk?si=QyKYdTuVVIspeqyE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <div className="relative pb-[57%] aspect-w-16 aspect-h-9 overflow-hidden bg-black">
+            <iframe
+              width="768" height="432"
+              className="absolute top-0 left-0 w-full h-full"
+              src="https://www.youtube.com/embed/6MYLvWphADk?si=QyKYdTuVVIspeqyE"
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen>
+            </iframe>
+          </div>
           <div className="hidden mt-4 sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
               Announcing our latest paper on minimal invasive spinal technique.{' '}
