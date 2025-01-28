@@ -1,12 +1,11 @@
 import './App.css'
-import Header from './compontents/Header'
-import Test from './compontents/Test'
+import Landing from './compontents/Landing'
 
 function App() {
 
   return (
     <>
-      <Test />
+      <Landing />
       
     </>
   )

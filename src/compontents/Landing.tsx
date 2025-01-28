@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import logo from '../assets/logo.svg';
+import logo from '../logo.svg';
 
 const navigation = [
   { name: 'Who We Serve', href: '#' },
@@ -10,7 +10,7 @@ const navigation = [
   { name: 'About', href: '#' },
 ]
 
-export default function Example() {
+export default function Landing() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
