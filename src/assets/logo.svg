@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130.43127mm"
+   height="35.470535mm"
+   viewBox="0 0 130.43127 35.470535"
+   version="1.1"
+   id="svg135"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.229386,-27.167144)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:25.4px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:1"
+       x="98.442505"
+       y="45.981499"
+       id="text360"><tspan
+         sodipodi:role="line"
+         id="tspan358"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode Bold';text-align:center;letter-spacing:-1.32292px;text-anchor:middle;fill:#3e061a;fill-opacity:1;stroke-width:2"
+         x="98.442505"
+         y="45.981499">CONCIERGE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;stroke-width:2"
+         x="98.442505"
+         y="77.731499"
+         id="tspan362" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;letter-spacing:2.64583px;text-anchor:middle;fill:#008000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:1"
+       x="102.08472"
+       y="62.465424"
+       id="text416"
+       inkscape:export-filename="text416.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan414"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI Bold';fill:#3e061a;fill-opacity:1;stroke-width:2"
+         x="103.40763"
+         y="62.465424">SPINE</tspan></text>
+  </g>
+</svg>

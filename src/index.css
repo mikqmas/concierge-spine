@@ -1,6 +1,12 @@
-@import "tailwindcss";
+/* @import "tailwindcss";
 @plugin "flowbite/plugin";
-@source "../node_modules/flowbite";
+@source "../node_modules/flowbite"; */
+@import "tailwindcss";
+
+@theme {
+  --color-beige: #fff9f0;
+  --color-crimson: #3e061a;
+}
 
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
